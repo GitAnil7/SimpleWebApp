@@ -93,13 +93,13 @@ h1{
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
-                <li><a href="#product">Product</a></li>
+                <li><a href="#produck">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
 		
         </header>
-         <h1> My First CICD Project </h1>   
+         <h1> Deploying html website </h1>   
 	 
 
     </section>    
