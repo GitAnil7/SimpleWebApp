@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Deploying html website </h1>   
+         <h1> Hurry Up offers are available </h1>   
 	 
 
     </section>    
