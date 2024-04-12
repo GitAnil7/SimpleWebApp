@@ -99,7 +99,8 @@ h1{
             </ul>
 		
         </header>
-         <h1> Hurry Up offers are available </h1>   
+         <h1> Hurry Up only one day left offers are available </h1>   
+	
 	 
 
     </section>    
